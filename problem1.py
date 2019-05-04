@@ -1,3 +1,5 @@
+# Function to solve Project Euler problem 1
+
 def multiples_of_3_5():
     for number in range(1000):
         #print (number)
